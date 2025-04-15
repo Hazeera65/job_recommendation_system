@@ -41,9 +41,6 @@ Run the development server:
 pnpm dev
 Open http://localhost:3000 to view the chatbot in your browser.
 
-
-
-Edit
 .
 ├── app/                # Application routes and pages
 ├── components/         # Chat interface components and UI elements
@@ -52,7 +49,7 @@ Edit
 ├── tailwind.config.ts  # Tailwind CSS configuration
 ├── tsconfig.json       # TypeScript configuration
 └── package.json        # Project metadata and scripts
-Customization
+
 You can modify chat behavior by editing components/chat-interface.tsx.
 
 Add or replace UI components using the reusable Shadcn UI-based elements in components/ui/.
